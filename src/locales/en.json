@@ -1,0 +1,151 @@
+{
+	"actions": {
+		"save": "Save",
+		"cancel": "Cancel",
+		"close": "Close",
+		"back": "Back",
+		"delete": "Delete",
+		"yes": "Yes",
+		"no": "Nope",
+		"edit": "Edit",
+		"login": "Login",
+		"register": "Register",
+		"logout": "Logout",
+		"add": "Add",
+		"create": "Create",
+		"submit": "Submit",
+		"remove": "Remove"
+	},
+	"languages": {
+		"language": "Language",
+		"german": "German",
+		"english": "English"
+	},
+	"tooltips": {
+		"copy": "Copy",
+		"move": "Move"
+	},
+	"attributes": {
+		"id": {
+			"label": "ID",
+			"placeholder": "?_?_?_?"
+		},
+		"name": {
+			"label": "Name",
+			"placeholder": "Jane Doe"
+		},
+		"firstName": {
+			"label": "First Name",
+			"placeholder": "Jane"
+		},
+		"lastName": {
+			"label": "Last Name",
+			"placeholder": "Doe"
+		},
+		"email": {
+			"label": "Email",
+			"placeholder": "jane.doe@example.com"
+		},
+		"password": {
+			"label": "Password",
+			"placeholder": "••••••••••••••"
+		},
+		"passwordRepeat": {
+			"label": "Repeat Password",
+			"placeholder": "••••••••••••••"
+		},
+		"street": {
+			"label": "Street",
+			"placeholder": "Main St"
+		},
+		"housenumber": {
+			"label": "Housenumber",
+			"placeholder": "123"
+		},
+		"postal": {
+			"label": "Postal",
+			"placeholder": "98765"
+		},
+		"city": {
+			"label": "City",
+			"placeholder": "Anytown"
+		},
+		"country": {
+			"label": "Country",
+			"placeholder": "USA"
+		},
+		"description": {
+			"label": "Description",
+			"placeholder": "..."
+		},
+		"additional": {
+			"label": "Additional Information",
+			"placeholder": "Apartment, Floor, ..."
+		},
+		"notes": {
+			"label": "Notes",
+			"placeholder": "..."
+		},
+		"createdAt": {
+			"label": "Created At",
+			"placeholder": "01/01/1970"
+		}
+	},
+	"modules": {
+		"authentication": {
+			"login": {
+				"title": "Login"
+			}
+		},
+		"notifications": {
+			"title": {
+				"singular": "Notification",
+				"plural": "Notifications"
+			}
+		},
+		"dashboard": {
+			"title": {
+				"singular": "Dashboard"
+			},
+			"forward": "Forward",
+			"backward": "Backward"
+		},
+		"profile": {
+			"title": {
+				"singular": "Profile",
+				"plural": "Profile"
+			},
+			"detail": {
+				"title": "Edit profile details"
+			}
+		},
+		"userManagement": {
+			"title": {
+				"singular": "User",
+				"plural": "Users"
+			},
+			"actions": {
+				"create": {
+					"title": "Create User"
+				},
+				"detail": {
+					"title": "User Detail"
+				}
+			},
+			"list": {
+				"title": "User management"
+			},
+			"attributes": {
+				"permissions": {
+					"label": "Permissions",
+					"placeholder": "?_?_?_?"
+				},
+				"roles": {
+					"label": "Roles",
+					"placeholder": "?_?_?_?"
+				}
+			}
+		}
+	},
+	"comps": {}
+}

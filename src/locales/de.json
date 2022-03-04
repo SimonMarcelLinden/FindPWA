@@ -1,0 +1,151 @@
+{
+	"actions": {
+		"save": "Speichern",
+		"cancel": "Abbrechen",
+		"close": "Schließen",
+		"back": "Zurück",
+		"delete": "Löschen",
+		"yes": "Ja",
+		"no": "Nope",
+		"edit": "Bearbeiten",
+		"login": "Login",
+		"register": "Registrieren",
+		"logout": "Abmelden",
+		"add": "Hinzufügen",
+		"create": "Erstellen",
+		"submit": "Sichern",
+		"remove": "Entfernen"
+	},
+	"languages": {
+		"language": "Sprachen",
+		"german": "Deutsch",
+		"english": "Englisch"
+	},
+	"tooltips": {
+		"copy": "Kopieren",
+		"move": "Verschieben"
+	},
+	"attributes": {
+		"id": {
+			"label": "ID",
+			"placeholder": "?_?_?_?"
+		},
+		"name": {
+			"label": "Name",
+			"placeholder": "Max Mustermann"
+		},
+		"firstName": {
+			"label": "Vorname",
+			"placeholder": "Max"
+		},
+		"lastName": {
+			"label": "Nachname",
+			"placeholder": "Mustermann"
+		},
+		"email": {
+			"label": "E-Mail",
+			"placeholder": "max.mustermann@beispiel.de"
+		},
+		"password": {
+			"label": "Passwort",
+			"placeholder": "••••••••••••••"
+		},
+		"passwordRepeat": {
+			"label": "Passwort wiederholen",
+			"placeholder": "••••••••••••••"
+		},
+		"street": {
+			"label": "Straße",
+			"placeholder": "Musterstr."
+		},
+		"housenumber": {
+			"label": "Hausnummer",
+			"placeholder": "1a"
+		},
+		"postal": {
+			"label": "PLZ",
+			"placeholder": "54321"
+		},
+		"city": {
+			"label": "Stadt",
+			"placeholder": "Musterstadt"
+		},
+		"country": {
+			"label": "Land",
+			"placeholder": "Deutschland"
+		},
+		"description": {
+			"label": "Beschreibung",
+			"placeholder": "..."
+		},
+		"additional": {
+			"label": "Zusätzliche Informationen",
+			"placeholder": "Appartement, Etage, ..."
+		},
+		"notes": {
+			"label": "Notizen",
+			"placeholder": "..."
+		},
+		"createdAt": {
+			"label": "Erstellt am",
+			"placeholder": "01.01.1970"
+		}
+	},
+	"modules": {
+		"authentication": {
+			"login": {
+				"title": "Login"
+			}
+		},
+		"notifications": {
+			"title": {
+				"singular": "Benachrichtigung",
+				"plural": "Benachrichtigungen"
+			}
+		},
+		"dashboard": {
+			"title": {
+				"singular": "Dashboard"
+			},
+			"forward": "Rein",
+			"backward": "Raus"
+		},
+		"profile": {
+			"title": {
+				"singular": "Profil",
+				"plural": "Profil"
+			},
+			"detail": {
+				"title": "Profil Details bearbeiten"
+			}
+		},
+		"userManagement": {
+			"title": {
+				"singular": "Benutzer",
+				"plural": "Benutzer"
+			},
+			"actions": {
+				"create": {
+					"title": "Nutzer erstellen"
+				},
+				"detail": {
+					"title": "Nutzer bearbeiten"
+				}
+			},
+			"list": {
+				"title": "Benutzerverwaltung"
+			},
+			"attributes": {
+				"permissions": {
+					"label": "Rechte",
+					"placeholder": "?_?_?_?"
+				},
+				"roles": {
+					"label": "Rollen",
+					"placeholder": "?_?_?_?"
+				}
+			}
+		}
+	},
+	"comps": {}
+}
